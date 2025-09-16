@@ -1,6 +1,6 @@
 
 
-  create view `mart`.`cylinders_by_origin__dbt_tmp` 
+  create view `mart`.`cylinders_by_origin` 
   
     
     

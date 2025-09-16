@@ -7,7 +7,7 @@
          
 
 
-        insert into `clean`.`mpg_standardized__dbt_backup`
+        insert into `clean`.`mpg_standardized`
         ("mpg", "cylinders", "displacement", "horsepower", "weight", "acceleration", "model_year", "origin", "make")
 
 -- Source columns are already Nullable with correct types.
